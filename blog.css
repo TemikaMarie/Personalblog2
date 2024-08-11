@@ -1,0 +1,62 @@
+figure {
+    text-align: center;
+    margin: 20px 0;
+}
+figure img {
+    max-width: 100%;
+    height: auto;
+}
+figcaption {
+    font-style: italic;
+    color: #666;
+    margin-top: 10px;
+}
+button {
+    display: inline-block;
+    padding: 10px 20px;
+    margin-top: 10px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+button:hover {
+    background-color: #0056b3;
+}
+/* blog.css */
+.umbrella-image {
+    width: 75%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+blockquote {
+    border-left: 4px solid #ccc;
+    padding: 10px 20px;
+    margin: 20px 0;
+    font-style: italic;
+    background-color: #f9f9f9;
+}
+blockquote footer {
+    text-align: right;
+    font-style: normal;
+    color: #555;
+}
+.my-button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px; /* Rounded corners */
+}
+.my-button:hover {
+    background-color: #45a049; /* Darker green on hover */
+}
