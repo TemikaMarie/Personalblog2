@@ -1,2 +1,2 @@
 # Personalblog2
-This is my blog with coding file attached.
+This is my 1st blog website made at Udacity with coding file attached.
